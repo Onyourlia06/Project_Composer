@@ -1,0 +1,15 @@
+{
+    "name": "asus/putri",
+    "description": "Ini latihan composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "nazwa09",
+            "email": "144345946+nazwa09@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.23"
+    },
+    "scripts": {"server" : "php -S localhost:8080"}
+}
